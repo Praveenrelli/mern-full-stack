@@ -1,0 +1,12 @@
+h1{
+    color: orangered;
+}
+
+p{
+    color: blue;
+}
+
+body{
+    background-color: rgb(6, 198, 205);
+    text-align: center;
+}
